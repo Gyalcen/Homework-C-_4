@@ -1,0 +1,15 @@
+D:\Homework\C#\C#_lesson4\bin\Debug\net6.0\C#_lesson4.exe
+D:\Homework\C#\C#_lesson4\bin\Debug\net6.0\C#_lesson4.deps.json
+D:\Homework\C#\C#_lesson4\bin\Debug\net6.0\C#_lesson4.runtimeconfig.json
+D:\Homework\C#\C#_lesson4\bin\Debug\net6.0\C#_lesson4.dll
+D:\Homework\C#\C#_lesson4\bin\Debug\net6.0\C#_lesson4.pdb
+D:\Homework\C#\C#_lesson4\obj\Debug\net6.0\C#_lesson4.csproj.AssemblyReference.cache
+D:\Homework\C#\C#_lesson4\obj\Debug\net6.0\C#_lesson4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Homework\C#\C#_lesson4\obj\Debug\net6.0\C#_lesson4.AssemblyInfoInputs.cache
+D:\Homework\C#\C#_lesson4\obj\Debug\net6.0\C#_lesson4.AssemblyInfo.cs
+D:\Homework\C#\C#_lesson4\obj\Debug\net6.0\C#_lesson4.csproj.CoreCompileInputs.cache
+D:\Homework\C#\C#_lesson4\obj\Debug\net6.0\C#_lesson4.dll
+D:\Homework\C#\C#_lesson4\obj\Debug\net6.0\refint\C#_lesson4.dll
+D:\Homework\C#\C#_lesson4\obj\Debug\net6.0\C#_lesson4.pdb
+D:\Homework\C#\C#_lesson4\obj\Debug\net6.0\C#_lesson4.genruntimeconfig.cache
+D:\Homework\C#\C#_lesson4\obj\Debug\net6.0\ref\C#_lesson4.dll
